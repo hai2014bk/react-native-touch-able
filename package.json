@@ -1,0 +1,18 @@
+{
+  "name": "react-native-touch-able",
+  "version": "1.0.14",
+  "description": "An custom TouchOpacity for react-native, prevent Continually action",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "touchopacity",
+    "react-native",
+    "Continually"
+  ],
+  "author": "Ng Le Thanh Hai",
+  "license": "MIT"
+}
