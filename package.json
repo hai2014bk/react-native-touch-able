@@ -1,6 +1,6 @@
 {
   "name": "react-native-touch-able",
-  "version": "1.0.14",
+  "version": "1.0.17",
   "description": "An custom TouchOpacity for react-native, prevent Continually action",
   "main": "index.js",
   "dependencies": {},
@@ -10,9 +10,20 @@
   },
   "keywords": [
     "touchopacity",
+    "touch able",
     "react-native",
-    "Continually"
+    "continually",
+    "prevent",
+    "button",
+    "time",
+    "stop button",
+    "auto disabled button"
   ],
   "author": "Ng Le Thanh Hai",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/hai2014bk/react-native-touch-able",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hai2014bk/react-native-touch-able.git"
+  }
 }

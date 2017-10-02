@@ -25,7 +25,9 @@ class TouchAble extends Component {
 render = () => {
     const { style, children } = this.props;
     return (
-      <TouchableOpacity disabled={this.state.disabled} onPress={() =>{this.onPressFuntion()}} style={style}>
+      <TouchableOpacity
+			{...this.props}
+			 disabled={this.state.disabled} onPress={() =>{this.onPressFuntion()}} style={style}>
        			{children}
       </TouchableOpacity>
     );
